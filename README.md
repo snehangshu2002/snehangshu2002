@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Banner GIF -->
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.gif](https://tenor.com/en-GB/view/buenos-días-gif-10444265911701974300)" alt="Data Science & ML Banner" width="100%"/>
+  <img src="![github-header-image](https://github.com/user-attachments/assets/dcdb01fd-d0d4-4e40-8807-3f208b03a5a5)
+" alt="Data Science & ML Banner" width="100%"/>
 </div>
 
 
