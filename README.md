@@ -28,15 +28,24 @@
 
 ---
 
+### 🧑‍💻 Work & Projects
+
+![Coding away](https://link-to-your-coding-gif.gif)
+
+- 🔭 Currently working on **WhatsApp Chat Analyzer**  
+  ![Chat analyzer action GIF](https://link-to-your-chat-analyzer-gif.gif)
+
 ### 🏆 Featured Projects
 
-- **Fake News Classifier** – NLP-powered with Streamlit (90% accuracy)  
-  ![Fake News Demo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/fake-news.gif)
-- **Heart Disease Prediction** – ML model on 1500+ records  
-- **Movie Recommendation System** – Using TMDB API & cosine similarity  
-  ![Movie Recommender Demo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/movie-demo.gif)
+- **Fake News Classifier**  
+  🧠 Built with NLP and Streamlit | 90% Accuracy  
+  ![NLP in action GIF](https://link-to-nlp-gif.gif)
 
----
+- **Movie Recommendation System**  
+  🎬 Powered by TMDB & cosine similarity  
+  ![Movie app demo GIF](https://link-to-movie-recommendation-gif.gif)
+
+
 
 ### 💼 Experience
 
