@@ -24,44 +24,46 @@
 
 #### Programming Languages & Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/python-animated.gif" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/r-animated.gif" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/sql-animated.gif" alt="SQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### Data Science & ML
 <p align="left">
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/scikit-learn-animated.gif" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/tensorflow-animated.gif" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> <!-- Fallback to static badge -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 #### Libraries & Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/streamlit-animated.gif" alt="Streamlit" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK"/> <!-- Fallback to static badge -->
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/pandas-animated.gif" alt="Pandas" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> <!-- Fallback to static badge -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 #### Visualization Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> <!-- Fallback to static badge -->
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/tableau-animated.gif" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/> <!-- Fallback to static badge -->
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 </p>
 
 #### Development & Documentation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/latex-animated.gif" alt="LaTeX" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/jupyter-animated.gif" alt="Jupyter" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 #### Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/github-animated.gif" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/snehangshu2002/assets/main/animated/colab-animated.gif" alt="Google Colab" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 </p>
+
+---
 
 ### 🧑‍💻 Work & Projects
 
