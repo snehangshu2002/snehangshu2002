@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI and Deep Learning" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif">
 
 - 🔭 **Currently Working On:** [WhatsApp Chat Analyzer](https://whatsapp-chat-analysis-2002.streamlit.app/) 
 - 🌱 **Learning:** Advanced ML, NLP & Dashboard Deployment
