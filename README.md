@@ -85,6 +85,17 @@
 </table>
 
 
+## 👨‍💻 Meet the Data Me
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="160" alt="Tech dude coding"/>
+  <img src="https://media.giphy.com/media/xT0GqsYRjNq4NcOAHa/giphy.gif" width="160" alt="Data analyst typing"/>
+  <img src="https://media.giphy.com/media/3o7qDUb5ydHcdpdEH2/giphy.gif" width="160" alt="Programmer working"/>
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="160" alt="Geek coding"/>
+
+</div>
+
 ### 🏆 Featured Projects
 
 - **Fake News Classifier**  
