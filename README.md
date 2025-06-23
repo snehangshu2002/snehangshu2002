@@ -57,7 +57,7 @@
 
 ### 📊 Data Visualization
 <p>
-  <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/images/plotly_logo.png" alt="plotly" width="50" height="30" style="margin: 10px;" />
+  <img src="[https://raw.githubusercontent.com/plotly/plotly.py/master/doc/images/plotly_logo.png](https://www.vectorlogo.zone/logos/plotly/plotly-official.svg)" alt="plotly" width="50" height="30" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2_compressed.svg" alt="matplotlib" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50" style="margin: 10px;" />
 </p>
