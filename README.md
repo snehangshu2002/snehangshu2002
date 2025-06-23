@@ -23,6 +23,7 @@
 
 <br clear="right"/>
 
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -191,13 +192,14 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-  
-  **⚡ "Data is the new oil, but insights are the refined fuel!" ⚡**
-  
+
+  <h3><b>⚡ "Data is the new oil, but insights are the refined fuel!" ⚡</b></h3>
+
   <img src="https://komarev.com/ghpvc/?username=snehangshu2002&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+  <br/>
+
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
 </div>
