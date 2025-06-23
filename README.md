@@ -1,48 +1,73 @@
-<!-- Banner (Optional) -->
-<p align="center">
-  <img src="https://your-banner-link.com" alt="Snehangshu Bhuin" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Snehangshu Bhuin</h1>
-<h3 align="center">A passionate data science and statistics enthusiast from India</h3>
-
-- 🔭 I’m currently working on **AI-driven dashboards using Streamlit**
-- 🌱 I’m currently learning **advanced machine learning, NLP & deployment**
-- 💬 Ask me about **Python, R, Statistics, or Streamlit**
-- 📫 Reach me at **snehangshubhuin@gmail.com**
-- 😄 Fun fact: *I enjoy visualizing chat data and predicting movies you'll love!*
+<h3 align="center">A passionate data science & statistics student from India</h3>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧑‍💻 Work
+
+- 🔭 I’m currently working on: **WhatsApp Chat Analyzer**  
+  🔗 [Live App](https://whatsapp-chat-analysis-2002.streamlit.app/) • [Code](https://github.com/snehangshu2002/whatsapp-chat-analysis)
+
+- 🌱 I’m currently learning: **Advanced ML, NLP, and Dashboard Deployment**
+
+- 💬 Ask me about: **Python, R, SQL, Streamlit, NLP, Data Analysis**
+
+- 📫 How to reach me: **snehangshubhuin@gmail.com**
+
+- 👨‍💻 All of my projects are available at:  
+  🔗 [GitHub Profile](https://github.com/snehangshu2002)
+
+- 📄 Know about my experiences:  
+  🔗 [Resume](https://your-resume-link-if-available)
+
+- 🎓 Fun fact: *I find joy in visualizing data from everyday life like WhatsApp chats!*
+
+---
+
+### 💡 Skills
+
+#### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+#### Tools & Platforms  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)  
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
+
+---
+
+### 🏆 Featured Projects
+
+- **Fake News Classifier**  
+  🧠 Built with NLP and Streamlit | 90% Accuracy  
+  🔗 [GitHub](https://github.com/snehangshu2002/Data-Science-Project)
+
+- **Heart Disease Prediction**  
+  ❤️ Predicts based on 1500+ patient records  
+  🔗 [GitHub](https://github.com/snehangshu2002/Heart-Disease-Classification)
+
+- **Movie Recommendation System**  
+  🎬 Uses TMDB API, cosine similarity, and posters  
+  🔗 [Live App](https://movie-recommendation2002.streamlit.app/) • [GitHub](https://github.com/snehangshu2002/Movie-Recommendation)
+
+---
+
+### 📃 Virtual Experience
+
+- **Deloitte Australia Data Analytics Simulation (Forage)** – June 2025  
+  🧾 [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_k6g6cv8LxzapAyEdB_1750658504746_completion_certificate.pdf)  
+  🔹 Used Tableau & Excel for dashboarding and data classification
+
+---
+
+### 📫 Connect with Me
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="90" height="40"/>
+  <a href="mailto:snehangshubhuin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/snehangshu-bhuin-b02987279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/snehangshu2002"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehangshu2002&show_icons=true&theme=github_dark" alt="Snehangshu's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu2002&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/snehangshu-bhuin-b02987279" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/></a>
-  <a href="mailto:snehangshubhuin@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40"/></a>
-  <a href="https://github.com/snehangshu2002" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/></a>
-</p>
