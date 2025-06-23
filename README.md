@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Banner GIF -->
-  <img src="![github-header-image](https://github.com/user-attachments/assets/dcdb01fd-d0d4-4e40-8807-3f208b03a5a5)
-" alt="Data Science & ML Banner" width="100%"/>
+  <img src=""![github-header-image](https://github.com/user-attachments/assets/e363e59f-2374-49f4-9473-ed38ea8e468c)
+
 </div>
 
 
