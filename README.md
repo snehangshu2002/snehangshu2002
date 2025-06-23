@@ -1,13 +1,10 @@
 <div align="center">
+  <!-- Banner GIF -->
   <img src="github-header-image (1).png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Snehangshu Bhuin</h1>
 <h3 align="center">A passionate Data Science & Statistics student from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehangshu2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -25,54 +22,55 @@
 
 ### 🛠 Tech Stack
 
-#### Programming Languages
+#### Programming Languages & Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### Data Science & ML
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-#### Libraries & Tools
+#### Libraries & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/streamlit/streamlit/static/img/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="90" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" alt="Plotly" width="70" height="30"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-#### Visualization
+#### Visualization Tools
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_logo.png" alt="Tableau" width="90" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 </p>
 
-#### Development & Platforms
+#### Development & Documentation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="60" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+#### Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🧑‍💻 Work & Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehangshu2002&show_icons=true&theme=radical" alt="snehangshu2002's GitHub stats" />
-</p>
+![Coding away](https://link-to-your-coding-gif.gif)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehangshu2002&theme=radical" alt="snehangshu2002's streak" />
-</p>
-
----
+- 🔭 Currently working on **WhatsApp Chat Analyzer**  
+  ![Chat analyzer action GIF](https://link-to-your-chat-analyzer-gif.gif)
 
 ### 🏆 Featured Projects
 
@@ -93,22 +91,18 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:snehangshubhuin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/snehangshu-bhuin-b02987279">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/snehangshu2002">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
-<p align="center">Last updated: 2025-06-23 07:57:45 UTC</p>
-
-![image1](image1)
+<p align="right">Last updated: 2025-06-23</p>
