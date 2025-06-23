@@ -110,9 +110,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu2002&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=snehangshu2002&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
