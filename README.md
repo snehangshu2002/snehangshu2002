@@ -186,16 +186,25 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
+
 **💌 Ready to collaborate on exciting data science projects?**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150" alt="Let's Connect GIF" />
+
+<br><br>
+
+<em><b>I love connecting with different people</b> — so if you want to say <b>hi, I'd be happy to meet you!</b> 😊</em>
+
+<br><br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehangshubhuin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehangshu-bhuin-b02987279)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehangshu2002)
 
 </div>
+
 
 ---
 <div align="center">
