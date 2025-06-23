@@ -15,12 +15,12 @@
 
 <img align="right" alt="AI and Deep Learning" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif">
 
-- 🔭 **Currently Working On:** [WhatsApp Chat Analyzer](https://whatsapp-chat-analysis-2002.streamlit.app/) 
-- 🌱 **Learning:** Advanced ML, NLP & Dashboard Deployment
-- 💡 **Expertise:** Python • R • SQL • Streamlit • NLP • Data Analysis
-- 📧 **Contact:** snehangshubhuin@gmail.com
-- 🎓 **Fun Fact:** I transform messy data into beautiful insights! 📊✨
-- 🏠 **Location:** India 🇮🇳
+- ✅ **Project Completed:** [WhatsApp Chat Analyzer](https://whatsapp-chat-analysis-2002.streamlit.app/)
+- 🌱 **Currently Exploring:** Advanced Machine Learning, NLP & Dashboard Deployment
+- 💡 **Skills:** Python • R • SQL • Streamlit • NLP • Data Analysis
+- 📧 **Email Me:** snehangshubhuin@gmail.com
+- 🎓 **Fun Fact:** I turn messy data into clear, useful insights! 📊✨
+- 🏠 **Based In:** India 🇮🇳
 
 <br clear="right"/>
 
