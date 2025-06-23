@@ -84,14 +84,23 @@
 
 ---
 
-### 💼 Experience
+### 💼 Virtual Experience
 
-- **Deloitte Australia Data Analytics Simulation** (Forage) – June 2025  
-  Tools: Tableau, Excel — [Certificate](https://forage-uploads-prod.s3.amazonaws.com/...)
+**Deloitte Australia Data Analytics Job Simulation** — Forage (June 2025)  
+[📄 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_k6g6cv8LxzapAyEdB_1750658504746_completion_certificate.pdf)
+- Completed a Deloitte job simulation involving data analysis and forensic technology.
+- Built a Tableau dashboard and performed classification using Excel.
 
 ---
 
-### 📫 Let's Connect
+### 📜 Certifications
+
+- **Data Science Certification**, DataSpace Academy (2024)  
+  [📄 Certificate](https://drive.google.com/file/d/1gKpt4Jj2LKN5X2iF4THYTr2kX-cGBP4q/view)
+
+---
+
+### 📬 Contact Me
 
 <p align="left">
   <a href="mailto:snehangshubhuin@gmail.com">
@@ -101,8 +110,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/snehangshu2002">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="right">Last updated: 2025-06-23</p>
+---
