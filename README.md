@@ -1,7 +1,8 @@
 # 🚀 Snehangshu Bhuin's GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Snehangshu+Bhuin+%F0%9F%91%8B;Data+Science+%26+Statistics+Enthusiast;Machine+Learning+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Snehangshu+Bhuin+%F0%9F%91%8B;Data+Scientist+%26+Statistics+Enthusiast;Machine+Learning+Explorer;Always+Learning!" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
