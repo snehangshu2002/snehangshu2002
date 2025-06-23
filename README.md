@@ -65,22 +65,23 @@
 
 ---
 
-### 🧑‍💻 Work & Projects
+### 🚀 Projects
 
-![Coding away](https://link-to-your-coding-gif.gif)
+#### 🔹 [Fake News Classifier (2024)](https://github.com/snehangshu2002/Data-Science-Project)
+- Created a Python tool with NLP and Streamlit to detect fake news with 90% accuracy on 5,000+ articles.
 
-- 🔭 Currently working on **WhatsApp Chat Analyzer**  
-  ![Chat analyzer action GIF](https://link-to-your-chat-analyzer-gif.gif)
+#### 🔹 [Heart Disease Prediction (2023)](https://github.com/snehangshu2002/Heart-Disease-Classification)
+- Built a classification model using logistic regression and decision trees; achieved 85% accuracy.
 
-### 🏆 Featured Projects
+#### 🔹 [WhatsApp Chat Analyzer (2024)](https://github.com/snehangshu2002/whatsapp-chat-analysis)  
+[🌐 Live App](https://whatsapp-chat-analysis-2002.streamlit.app/)
+- Built with Python, Streamlit, NLTK, and Plotly to analyze WhatsApp chats.
+- Features include emoji usage, sentiment trends, word clouds, and chat activity stats.
 
-- **Fake News Classifier**  
-  🧠 Built with NLP and Streamlit | 90% Accuracy  
-  ![NLP in action GIF](https://link-to-nlp-gif.gif)
-
-- **Movie Recommendation System**  
-  🎬 Powered by TMDB & cosine similarity  
-  ![Movie app demo GIF](https://link-to-movie-recommendation-gif.gif)
+#### 🔹 [Movie Recommendation System (2024)](https://github.com/snehangshu2002/Movie-Recommendation)  
+[🎬 Live App](https://movie-recommendation2002.streamlit.app/)
+- Content-based recommender using cosine similarity & TMDB API.
+- Displays posters, trailers, and metadata of recommended movies.
 
 ---
 
