@@ -1,4 +1,8 @@
-<div class="tenor-gif-embed" data-postid="10444265911701974300" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/buenos-d%C3%ADas-gif-10444265911701974300">Buenos Días GIF</a>from <a href="https://tenor.com/search/buenos+d%C3%ADas-gifs">Buenos Días GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <!-- Banner GIF -->
+  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.gif](https://tenor.com/en-GB/view/buenos-días-gif-10444265911701974300)" alt="Data Science & ML Banner" width="100%"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I’m Snehangshu Bhuin</h1>
 <h3 align="center">A passionate Data Science & Statistics student from India</h3>
