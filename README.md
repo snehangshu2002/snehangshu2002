@@ -193,11 +193,11 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150" alt="Let's Connect GIF" />
 
-<br><br>
+<br>
 
 <em><b>I love connecting with different people</b> — so if you want to say <b>hi, I'd be happy to meet you!</b> 😊</em>
 
-<br><br>
+<br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehangshubhuin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehangshu-bhuin-b02987279)
