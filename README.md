@@ -33,6 +33,7 @@
         <header class="text-center mb-12 animate-fadeInUp">
             <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Picture" class="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-blue-500 animate-pulse">
             <h1 class="text-4xl font-bold text-blue-400">Snehangshu Bhuin</h1>
+
             <p class="text-xl text-gray-300">Statistics Postgraduate | Data Scientist | Machine Learning Enthusiast</p>
             <div class="flex justify-center gap-4 mt-4">
                 <a href="mailto:snehangshubhuin@gmail.com" class="text-blue-400 hover:text-blue-600"><i class="fas fa-envelope"></i></a>
