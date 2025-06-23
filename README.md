@@ -111,7 +111,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehangshu2002&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
