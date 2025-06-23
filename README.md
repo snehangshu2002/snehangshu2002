@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif" alt="AI and Deep Learning Banner" width="1000"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Snehangshu Bhuin</h1>
+<h3 align="center">A passionate data science & statistics student from India</h3>
+
+
 <h1 align="center">Hi 👋, I'm Snehangshu Bhuin</h1>
 <h3 align="center">A passionate data science & statistics student from India</h3>
 
