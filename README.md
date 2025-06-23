@@ -126,7 +126,6 @@
 - 📊 Streamlit dashboard interface
 
 ---
-
 ### ❤️ **Heart Disease Prediction** | [📝 Code](https://github.com/snehangshu2002/Heart-Disease-Classification)
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Heart Demo" width="60" height="60"/>
