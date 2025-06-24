@@ -6,7 +6,8 @@
 
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Snehangshu+Bhuin+%F0%9F%91%8B;Data+Scientist+%26+Statistics+Enthusiast;Machine+Learning+Explorer;Always+Learning!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Snehangshu+Bhuin+%F0%9F%91%8B;Data+Scientist+%26+Statistics+Enthusiast;Machine+Learning+Explorer;Always+Learning!" alt
+="Typing SVG" />
 
 </div>
 
@@ -85,69 +86,7 @@
 
 </div>
 
----
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🔥 **WhatsApp Chat Analyzer** | [🌐 Live Demo](https://whatsapp-chat-analysis-2002.streamlit.app/) • [📝 Code](https://github.com/snehangshu2002/whatsapp-chat-analysis)
-
-<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" alt="WhatsApp Demo" width="60" height="60"/>
-
-[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/snehangshu2002/whatsapp-chat-analysis)
-[![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/snehangshu2002/whatsapp-chat-analysis)
-[![](https://img.shields.io/badge/NLTK-green?style=flat-square)](https://github.com/snehangshu2002/whatsapp-chat-analysis)
-
-**🎯 Transform your WhatsApp conversations into insights!**
-- 📈 Interactive dashboards with sentiment analysis
-- 🔍 Word clouds, emoji trends, and activity patterns
-- 📊 Built with Python, Streamlit, NLTK & Plotly
-
----
-
-### 🎬 **Movie Recommendation System** | [🌐 Live Demo](https://movie-recommendation2002.streamlit.app/) • [📝 Code](https://github.com/snehangshu2002/Movie-Recommendation)
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Movie Demo" width="60" height="60"/>
-
-[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/snehangshu2002/Movie-Recommendation)
-[![](https://img.shields.io/badge/API-TMDB-green?style=flat-square)](https://github.com/snehangshu2002/Movie-Recommendation)
-
-**🎯 Discover your next favorite movie!**
-- 🎭 Content-based filtering with cosine similarity
-- 🎬 Real-time movie posters and trailers
-- 📱 Sleek, responsive interface
-
----
-
-### 🕵️ **Fake News Classifier** | [📝 Code](https://github.com/snehangshu2002/Data-Science-Project)
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="News Demo" width="60" height="60"/>
-
-[![](https://img.shields.io/badge/Accuracy-90%25-brightgreen?style=flat-square)](https://github.com/snehangshu2002/Data-Science-Project)
-[![](https://img.shields.io/badge/NLP-Powered-blue?style=flat-square)](https://github.com/snehangshu2002/Data-Science-Project)
-
-**🎯 Combat misinformation with AI!**
-- 🔍 90% accuracy on 5,000+ articles
-- 🧠 NLP-powered classification
-- 📊 Streamlit dashboard interface
-
----
-### ❤️ **Heart Disease Prediction** | [📝 Code](https://github.com/snehangshu2002/Heart-Disease-Classification)
-
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Heart Demo" width="60" height="60"/>
-
-[![](https://img.shields.io/badge/Accuracy-85%25-brightgreen?style=flat-square)](https://github.com/snehangshu2002/Heart-Disease-Classification)
-[![](https://img.shields.io/badge/ML-Healthcare-red?style=flat-square)](https://github.com/snehangshu2002/Heart-Disease-Classification)
-
-**🎯 Predict cardiac health with machine learning!**
-- 🏥 Logistic regression & decision trees
-- 📈 85% prediction accuracy
-- 🔬 Medical data analysis
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
