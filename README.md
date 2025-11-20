@@ -97,15 +97,16 @@
 [![Streak](https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
 ---
 
 ## 🏅 Certifications & Simulations
 
-| Organization | Certification / Simulation | Key Learnings |
+| Organization | Certification / Simulation | Certificate Link |
 | :--- | :--- | :--- |
-| **British Airways (Forage)** | **Data Science Job Simulation** (Oct 2025) | • Web scraping customer reviews & predictive modeling for buying behavior. |
-| **Deloitte (Forage)** | **Data Analytics Simulation** (June 2025) | • Built Tableau dashboards & performed forensic data analysis. |
-| **DataSpace Academy** | **Data Science Certification** (2024) | • Comprehensive curriculum on ML algorithms & real-world applications. |
+| **British Airways (Forage)** | **Data Science Job Simulation** (Oct 2025) | [📜 View Certificate](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_k6g6cv8LxzapAyEdB_1760341229900_completion_certificate.pdf) |
+| **Deloitte (Forage)** | **Data Analytics Simulation** (June 2025) | [📜 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_k6g6cv8LxzapAyEdB_1750658504746_completion_certificate.pdf) |
+| **DataSpace Academy** | **Data Science Certification** (2024) | [📜 View Certificate](https://drive.google.com/file/d/1gKpt4Jj2LKN5X2iF4THYTr2kX-cGBP4q/view) |
 
 ---
 
