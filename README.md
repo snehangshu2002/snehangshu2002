@@ -1,35 +1,38 @@
 <div align="center">
 
-# 🚀 Snehangshu Bhuin's GitHub Profile
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=33C4FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Snehangshu+Bhuin+%F0%9F%91%8B;Data+Analyst+Intern+%40+ISI+Kolkata;M.Sc.+Statistics+Graduate;Building+RAG+%26+NLP+Solutions" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Data%20Science%20and%20Analytics&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
 </div>
 
-
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Snehangshu+Bhuin+%F0%9F%91%8B;Data+Scientist+%26+Statistics+Enthusiast;Machine+Learning+Explorer;Always+Learning!" alt
-="Typing SVG" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40"/>
-</div>
-
----
-
-## 🎯 About Me
-
-<img align="right" alt="AI and Deep Learning" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif">
-
-- ✅ **Project Completed:** [WhatsApp Chat Analyzer](https://whatsapp-chat-analysis-2002.streamlit.app/)
-- 🌱 **Currently Exploring:** Advanced Machine Learning, NLP & Dashboard Deployment
-- 💡 **Skills:** Python • R • SQL • Streamlit • NLP • Data Analysis
-- 📧 **Email Me:** snehangshubhuin@gmail.com
-- 🎓 **Fun Fact:** I turn messy data into clear, useful insights! 📊✨
-- 🏠 **Based In:** India 🇮🇳
-
-<br clear="right"/>
-
+<table>
+  <tr>
+    <td valign="center">
+      <h2>🎯 About Me</h2>
+      <p>
+        I am a <b>Statistics Postgraduate (M.Sc.)</b> from Visva-Bharati University with a strong foundation in statistical modeling and predictive analytics. 
+        I am currently applying my skills as a <b>Data Analyst Intern</b> at the prestigious <b>Indian Statistical Institute (IDEAS-TIH)</b>.
+      </p>
+      <ul>
+         <li>🔭 <b>Currently Working On:</b> PLFS Data Analysis & Anomaly Detection Pipelines.</li>
+         <li>🌱 <b>Focus Areas:</b> NLP, Retrieval-Augmented Generation (RAG), DuckDB, Time Series.</li>
+         <li>🎓 <b>Education:</b> M.Sc. & B.Sc. in Statistics (Visva-Bharati University).</li>
+         <li>📍 <b>Location:</b> Kolkata / West Bengal, India 🇮🇳</li>
+      </ul>
+      <br />
+      <a href="mailto:snehangshubhuin@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/snehangshu-bhuin-b02987279">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coder Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,123 +40,93 @@
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 10px;" />
-</p>
+### 🧠 Generative AI & NLP
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/Vector_DB_(FAISS)-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-### 🤖 Machine Learning & Data Science
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin: 10px;" />
-</p>
-
+### 🤖 Machine Learning & Viz
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 📊 Data Visualization
-<p>
-  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="60" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="60" />  
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" />
-
-</p>
-
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### 🌐 Web Development & Deployment
-<p>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50" style="margin: 10px;" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="50" height="50" style="margin: 10px;" />
-</p>
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
+---
 
+## 💼 Professional Experience
+
+| Role | Organization | Impact & Tech Stack |
+| :--- | :--- | :--- |
+| **Data Analyst Intern**<br>*(Nov 2025 - Present)* | **Indian Statistical Institute (IDEAS-TIH)**<br>_Kolkata, India_ | • Analyzing **PLFS datasets** (MOSPI) for data quality & anomalies.<br>• Building an **anomaly detection pipeline** using **Python & DuckDB**.<br>• Developing a modular **Streamlit app** for data exploration & visualization. |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Impact / Results |
+| :--- | :--- | :--- |
+| **[Conversational RAG Chatbot](https://github.com/snehangshu2002/Conversational-RAG-with-PDF-Chat-History)** | LangChain, Groq, FAISS, Gemini | • Context-aware PDF chatbot with history support.<br>• Implemented document chunking & LLaMA-3.3-70B. |
+| **[Fake News Classifier](https://github.com/snehangshu2002/Data-Science-Project)** | Python, NLP, Streamlit | • **90% Accuracy** on 5,000+ news articles.<br>• Advanced text preprocessing & real-time detection. |
+| **[Telecom Churn Prediction](https://github.com/snehangshu2002/Customer-Churn-Prediction)** | ML, Pandas, SMOTE | • **79.7% Accuracy** predicting customer churn.<br>• Balanced classes using SMOTE & optimized Recall. |
+| **[Heart Disease Prediction](https://github.com/snehangshu2002/Heart-Disease-Classification)** | Logistic Regression, Decision Trees | • **85% Accuracy** across 1,500+ patient records.<br>• Comprehensive Feature Engineering. |
+| **[HR Analytics Dashboard](https://github.com/snehangshu2002/HR-Analytics-Dashboard)** | Excel, Pivot Tables, Slicers | • Analyzed 1,470 employees & 16% attrition rate.<br>• Interactive filtering by department & demographics. |
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehangshu2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu2002&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=snehangshu2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu2002&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" /></td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehangshu2002&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-## 🏅 Achievements & Experience
+## 🏅 Certifications & Simulations
 
-### 💼 **Virtual Experience**
-**🔹 Deloitte Australia Data Analytics Simulation** | Forage (June 2025)
-- 📊 Built interactive Tableau dashboards
-- 🔍 Performed advanced data analysis and forensic technology
-- 📈 Implemented classification models using Excel
-- [📜 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_k6g6cv8LxzapAyEdB_1750658504746_completion_certificate.pdf)
-
-### 📜 **Certifications**
-**🔹 Data Science Certification** | DataSpace Academy (2024)
-- 🎓 Comprehensive data science curriculum
-- 🔬 Hands-on projects and real-world applications
-- [📜 View Certificate](https://drive.google.com/file/d/1gKpt4Jj2LKN5X2iF4THYTr2kX-cGBP4q/view)
+| Organization | Certification / Simulation | Key Learnings |
+| :--- | :--- | :--- |
+| **British Airways (Forage)** | **Data Science Job Simulation** (Oct 2025) | • Web scraping customer reviews & predictive modeling for buying behavior. |
+| **Deloitte (Forage)** | **Data Analytics Simulation** (June 2025) | • Built Tableau dashboards & performed forensic data analysis. |
+| **DataSpace Academy** | **Data Science Certification** (2024) | • Comprehensive curriculum on ML algorithms & real-world applications. |
 
 ---
 
-## 🤝 Let's Connect!
-
 <div align="center">
+  
+### 🤝 Let's Connect!
+<p>Always open to discussing Data Science, AI, and Statistics!</p>
 
-**💌 Ready to collaborate on exciting data science projects?**
+<a href="mailto:snehangshubhuin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/snehangshu-bhuin-b02987279">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/snehangshu2002">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150" alt="Let's Connect GIF" />
+<h3><b>⚡ "Turning Data into Decisions!" ⚡</b></h3>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=snehangshu2002&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
-<em><b>I love connecting with different people</b> — so if you want to say <b>hi, I'd be happy to meet you!</b> 😊</em>
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehangshubhuin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehangshu-bhuin-b02987279)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehangshu2002)
-
-</div>
-
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-
-  <h3><b>⚡ "Data is the new oil, but insights are the refined fuel!" ⚡</b></h3>
-
-  <img src="https://komarev.com/ghpvc/?username=snehangshu2002&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-
-  <br/>
-
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
 </div>
