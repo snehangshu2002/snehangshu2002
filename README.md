@@ -16,7 +16,7 @@
       </p>
       <ul>
          <li>🔭 <b>Currently Working On:</b> PLFS Data Analysis & Anomaly Detection Pipelines.</li>
-         <li>🌱 <b>Focus Areas:</b> NLP, Retrieval-Augmented Generation (RAG), DuckDB, Time Series.</li>
+         <li>🌱 <b>Focus Areas:</b> NLP, Retrieval-Augmented Generation (RAG), Time Series.</li>
          <li>🎓 <b>Education:</b> M.Sc. & B.Sc. in Statistics (Visva-Bharati University).</li>
          <li>📍 <b>Location:</b> Kolkata / West Bengal, India 🇮🇳</li>
       </ul>
@@ -50,7 +50,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 ### 🤖 Machine Learning & Viz
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -66,7 +65,7 @@
 
 | Role | Organization | Impact & Tech Stack |
 | :--- | :--- | :--- |
-| **Data Analyst Intern**<br>*(Nov 2025 - Present)* | **Indian Statistical Institute (IDEAS-TIH)**<br>_Kolkata, India_ | • Analyzing **PLFS datasets** (MOSPI) for data quality & anomalies.<br>• Building an **anomaly detection pipeline** using **Python & DuckDB**.<br>• Developing a modular **Streamlit app** for data exploration & visualization. |
+| **Data Analyst Intern**<br>*(Nov 2025 - Present)* | **Indian Statistical Institute (IDEAS-TIH)**<br>_Kolkata, India_ | • Analyzing **PLFS datasets** (MOSPI) for data quality & anomalies.<br>• Building an **anomaly detection pipeline** using **Python**.<br>• Developing a modular **Streamlit app** for data exploration & visualization. |
 
 ---
 
