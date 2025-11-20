@@ -85,16 +85,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=snehangshu2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu2002&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" /></td>
-  </tr>
-</table>
 
-<img src="https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight&hide_border=true" alt="Streak" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=snehangshu2002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehangshu2002&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Streak](https://streak-stats.demolab.com/?user=snehangshu2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
-
 ---
 
 ## 🏅 Certifications & Simulations
