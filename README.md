@@ -16,13 +16,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-00D166?style=flat-square"/>
 
-<br><br>
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehangshu2002&theme=github_dark"/>
+
 
 </div>
-
-<br>
 
 
 ## 👨‍ About Me
@@ -326,6 +324,7 @@ Texas: $25K net loss on $170K revenue. 30%+ discount → avg -48% margin. 4 SQL 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehangshu2002&theme=dark&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff&hide_border=true" height="165"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehangshu2002&theme=github_dark"/>
 </div>
 
 <div align="center">
