@@ -1,0 +1,120 @@
+"""Build the experience section from assets/experience.json.
+
+A terminal window holding a career timeline: the spine draws down, each role slides
+in, its numbers roll up, and the current role's node pulses. Writes
+assets/experience-dark.svg and assets/experience-light.svg, and rewrites the README
+block between the EXPERIENCE markers: the timeline image, then the full bullet points
+as text so they stay readable, searchable and copyable.
+
+    python scripts/experience.py
+"""
+import json
+from pathlib import Path
+from xml.sax.saxutils import escape
+
+from style import CHAR, THEMES, odometer, svg_open, text, window
+
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "assets/experience.json"
+README = ROOT / "README.md"
+START, END = "<!-- EXPERIENCE:START", "<!-- EXPERIENCE:END -->"
+W = 1180
+TOP, BLOCK, GAP = 84, 136, 14   # first card's top, card height, space between cards
+NODE_X, CARD_X, KPI_X = 66, 100, 880
+
+
+def render(roles, t):
+    h = TOP + len(roles) * (BLOCK + GAP) - GAP + 43
+    ys = [TOP + i * (BLOCK + GAP) for i in range(len(roles))]
+    o = [svg_open(W, h, "Experience: " + "; ".join(f'{r["title"]}, {r["org"]}, {r["dates"]}' for r in roles), t)]
+    o += window(W, h, f"career.log --tail -n {len(roles)}", t, f"{len(roles)} ROLES")
+
+    # spine: a faint rail with a cyan line drawing down it
+    y0, y1 = ys[0] + 30, ys[-1] + 30
+    o.append(f'<path d="M{NODE_X} {y0}V{y1}" stroke="{t["line"]}" stroke-width="2"/>')
+    if y1 > y0:
+        o.append(f'<path d="M{NODE_X} {y0}V{y1}" stroke="{t["chrome"]}" stroke-width="2" opacity=".7" '
+                 f'stroke-dasharray="{y1 - y0}"><animate attributeName="stroke-dashoffset" '
+                 f'values="{y1 - y0};{y1 - y0};0" keyTimes="0;.15;1" dur="1.8s" calcMode="spline" '
+                 'keySplines="0 0 1 1;0.4 0 0.2 1" fill="freeze"/></path>')
+
+    for i, (r, y) in enumerate(zip(roles, ys)):
+        start, cy = 0.3 + 0.45 * i, y + 30
+        o.append(f'<path d="M{NODE_X + 8} {cy}H{CARD_X}" stroke="{t["line"]}"/>')
+        if r.get("current"):
+            o.append(f'<circle cx="{NODE_X}" cy="{cy}" r="6" fill="none" stroke="{t["accent"]}" stroke-width="1.5">'
+                     '<animate attributeName="r" values="6;17" dur="2s" repeatCount="indefinite"/>'
+                     '<animate attributeName="opacity" values=".9;0" dur="2s" repeatCount="indefinite"/></circle>')
+            o.append(f'<circle cx="{NODE_X}" cy="{cy}" r="6" fill="{t["accent"]}" stroke="{t["panel"]}" stroke-width="2"/>')
+        else:
+            o.append(f'<circle cx="{NODE_X}" cy="{cy}" r="6" fill="{t["panel"]}" stroke="{t["chrome"]}" stroke-width="2"/>')
+
+        # the card slides in from the right once the spine reaches it
+        key = f'keyTimes="0;{start / (start + .5):.3f};1" dur="{start + .5:.2f}s"'
+        o.append(f'<g><animate attributeName="opacity" values="0;0;1" {key} fill="freeze"/>'
+                 f'<animateTransform attributeName="transform" type="translate" values="14 0;14 0;0 0" {key} '
+                 'calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1" fill="freeze"/>')
+        o.append(f'<rect x="{CARD_X}" y="{y}" width="{W - 35 - CARD_X}" height="{BLOCK}" rx="6" '
+                 f'fill="{t["panel2"]}" stroke="{t["line"]}"/>')
+        o.append(text(CARD_X + 20, y + 30, r["title"], 17, t["text"], weight=700))
+        if r.get("current"):
+            bx = CARD_X + 20 + len(r["title"]) * 17 * CHAR + 12
+            o.append(f'<rect x="{bx:.1f}" y="{y + 17}" width="44" height="18" rx="9" fill="{t["accent"]}" '
+                     f'fill-opacity=".15" stroke="{t["accent"]}"/>')
+            o.append(text(bx + 22, y + 30, "NOW", 10, t["accent"], "middle", 700, ' letter-spacing=".8"'))
+        o.append(text(KPI_X - 20, y + 30, r["dates"], 12, t["muted"], "end"))
+        where = r["org"] + (f' · {r["place"]}' if r.get("place") else "")
+        o.append(text(CARD_X + 20, y + 52, where, 12, t["chrome"]))
+        for k, line in enumerate(r["highlights"][:3]):
+            o.append(text(CARD_X + 20, y + 80 + 20 * k, "▸", 12, t["chrome"]))
+            o.append(text(CARD_X + 36, y + 80 + 20 * k, line, 13, t["muted"]))
+
+        # headline numbers, digits rolling in as the card lands
+        o.append(f'<path d="M{KPI_X} {y + 16}V{y + BLOCK - 16}" stroke="{t["line"]}" stroke-dasharray="1 5"/>')
+        for k, kpi in enumerate(r.get("kpis", [])[:2]):
+            kx = KPI_X + 22 + 135 * k
+            o.append(odometer(kx, y + 74, kpi["value"], 26, t["text"], f"k{i}{k}", start + 0.3))
+            o.append(text(kx, y + 96, kpi["label"].upper(), 10, t["muted"], weight=700, extra=' letter-spacing=".6"'))
+        o.append("</g>")
+    o.append("</svg>")
+    return "".join(o)
+
+
+def readme_block(roles):
+    alt = escape("Experience timeline: " + "; ".join(f'{r["title"]} at {r["org"]} ({r["dates"]})' for r in roles),
+                 {'"': "&quot;"})
+    o = [f"{START} - generated by scripts/experience.py from assets/experience.json; edit that, not this -->",
+         "<picture>",
+         '  <source media="(prefers-color-scheme: dark)"  srcset="assets/experience-dark.svg">',
+         '  <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">',
+         f'  <img src="assets/experience-dark.svg" width="100%" alt="{alt}">',
+         "</picture>",
+         "",
+         "<details>",
+         "<summary><b>full details</b></summary>",
+         ""]
+    for r in roles:
+        where = r["org"] + (f', {r["place"]}' if r.get("place") else "")
+        o.append(f'**{r["title"]}** · {where} · *{r["dates"]}*')
+        o.append("")
+        o += [f"- {b}" for b in r["bullets"]]
+        o.append("")
+    o += ["</details>", END]
+    return "\n".join(o)
+
+
+def main():
+    roles = json.loads(DATA.read_text())["roles"]
+    for name, theme in THEMES.items():
+        (ROOT / f"assets/experience-{name}.svg").write_text(render(roles, theme))
+    readme = README.read_text()
+    if START in readme and END in readme:
+        head, rest = readme.split(START, 1)
+        README.write_text(head + readme_block(roles) + rest.split(END, 1)[1])
+    else:
+        print(f"README has no {START} ... {END} block; SVGs written, README left alone")
+    print(f"{len(roles)} roles -> assets/experience-{{dark,light}}.svg")
+
+
+if __name__ == "__main__":
+    main()

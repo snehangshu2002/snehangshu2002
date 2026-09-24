@@ -1,5 +1,7 @@
 {
   "title": "Language & Tooling Stack",
+  "tag": "SIGNAL.STACK",
+  "accent": "violet",
   "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
   "axes": [
     { "label": "Python",       "value": 92 },

@@ -1,0 +1,107 @@
+{
+  "_comment": "Source for the 'things I've shipped' section. Edit this, then run python scripts/projects.py (the Charts workflow also runs it). featured -> animated cards; more -> compact table. metric is optional: only put real numbers here.",
+  "featured": [
+    {
+      "slug": "gpt2-medium-instruct",
+      "name": "GPT-2 Medium Instruct",
+      "tag": "LLM · FINE-TUNE",
+      "blurb": "GPT-2 Medium (355M) fine-tuned on Alpaca for instruction following, with a custom PyTorch architecture.",
+      "stack": ["PyTorch", "Lightning", "Alpaca"],
+      "metric": { "value": "355M", "label": "params" },
+      "links": [
+        { "label": "Demo", "url": "https://snehangshu511-gpt2-medium-instruct-demo.hf.space/" },
+        { "label": "Model", "url": "https://huggingface.co/snehangshu511/gpt2-medium-instruct" },
+        { "label": "Code", "url": "https://github.com/snehangshu2002/gpt2-instruct-finetune" }
+      ]
+    },
+    {
+      "slug": "tinystories-gpt2",
+      "name": "TinyStories GPT-2",
+      "tag": "LLM · FROM SCRATCH",
+      "blurb": "A full GPT-2 decoder in raw PyTorch, trained from scratch on TinyStories and loadable with HF transformers.",
+      "stack": ["PyTorch", "Lightning", "Transformers"],
+      "metric": { "value": "124M", "label": "params" },
+      "links": [
+        { "label": "Demo", "url": "https://snehangshu511-tinystories-gpt2-demo.hf.space/" },
+        { "label": "Model", "url": "https://hf.co/snehangshu511/tinystories-gpt2-124M-scratch" },
+        { "label": "Code", "url": "https://github.com/snehangshu2002/tinystories-gpt2-from-scratch" }
+      ]
+    },
+    {
+      "slug": "medqa-tinyllama",
+      "name": "MedQA TinyLlama",
+      "tag": "LLM · QLORA",
+      "blurb": "TinyLlama-1.1B fine-tuned on 5k medical Q&A samples with QLoRA in 4-bit NF4.",
+      "stack": ["QLoRA", "PEFT", "NF4"],
+      "metric": { "value": "1.1B", "label": "params" },
+      "links": [
+        { "label": "Model", "url": "https://huggingface.co/snehangshu511/MedQA-TinyLlama-QLoRA-v3" },
+        { "label": "Colab", "url": "https://colab.research.google.com/drive/1kvrBhXElXRODwva8ntW-qsngi9Tpe_IW?usp=sharing" }
+      ]
+    },
+    {
+      "slug": "sql-mcp-server",
+      "name": "sql-mcp-server",
+      "tag": "MCP · TOOLING",
+      "blurb": "An MCP server that connects Claude Desktop to SQL Server, with SQL-injection protection.",
+      "stack": ["Python", "MCP", "SQL Server"],
+      "links": [
+        { "label": "PyPI", "url": "https://pypi.org/project/sql-mcp-server/" },
+        { "label": "Code", "url": "https://github.com/snehangshu2002/sql-mcp-server" }
+      ]
+    },
+    {
+      "slug": "saarthi-cli",
+      "name": "saarthi-cli",
+      "tag": "AI · TERMINAL APP",
+      "blurb": "A terminal AI chat app with persistent memory, streaming replies, saved sessions and multi-provider models.",
+      "stack": ["Python", "LLM APIs", "CLI"],
+      "links": [
+        { "label": "Code", "url": "https://github.com/snehangshu2002/saarthi-cli" }
+      ]
+    },
+    {
+      "slug": "aws-fraud-detection",
+      "name": "AWS Fraud Detection",
+      "tag": "MLOPS · AWS",
+      "blurb": "Real-time fraud detection on 284,807 card transactions: XGBoost on a SageMaker endpoint behind Lambda + API Gateway.",
+      "stack": ["XGBoost", "SageMaker", "Lambda"],
+      "metric": { "value": "0.80", "label": "fraud F1" },
+      "links": [
+        { "label": "Code", "url": "https://github.com/snehangshu2002/aws-fraud-detection-sagemaker" }
+      ]
+    },
+    {
+      "slug": "airline-satisfaction-mlops",
+      "name": "Airline Satisfaction MLOps",
+      "tag": "MLOPS · PIPELINE",
+      "blurb": "Reproducible XGBoost pipeline for passenger satisfaction: DVC + MLflow on DagsHub, CI, and a FastAPI service on EC2.",
+      "stack": ["DVC", "MLflow", "FastAPI"],
+      "links": [
+        { "label": "Code", "url": "https://github.com/snehangshu2002/airline-satisfaction-mlops" }
+      ]
+    },
+    {
+      "slug": "predictive-maintenance",
+      "name": "Predictive Maintenance",
+      "tag": "DEEP LEARNING",
+      "blurb": "Forecasts industrial machine failures from sensor telemetry (AI4I 2020), tuned with Optuna. 0.97 recall.",
+      "stack": ["PyTorch", "Optuna", "AI4I 2020"],
+      "metric": { "value": "98%", "label": "accuracy" },
+      "links": [
+        { "label": "Code", "url": "https://github.com/snehangshu2002/predictive-maintenance-pytorch" }
+      ]
+    }
+  ],
+  "more": [
+    { "icon": "📈", "name": "Stock Prediction: LSTM vs GRU", "blurb": "GRU wins with **R² 0.87** and 25% fewer params", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/stock-lstm-gru" }] },
+    { "icon": "🏷️", "name": "NER: BiLSTM + Word2Vec", "blurb": "9-tag NER on CoNLL-2003 with a stacked BiLSTM tagger", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/deep-ner-stacked-bilstm" }] },
+    { "icon": "📞", "name": "Customer Churn Prediction", "blurb": "7,000+ telecom records, LogReg + Random Forest with SMOTE: **79.7% accuracy**", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/Churn-Prediction-System" }] },
+    { "icon": "🤖", "name": "Conversational RAG Chatbot", "blurb": "Multi-PDF chat with history, FAISS + LLaMA-3.3-70B on Groq", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/Conversational-RAG-with-PDF-Chat-History" }] },
+    { "icon": "📄", "name": "ATS Resume Optimizer", "blurb": "n8n + Mistral: JD → tailored resume → scored PDF by email", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/ats-resume-enhancer" }] },
+    { "icon": "🍔", "name": "AI Food Ordering Bot", "blurb": "n8n + Telegram + Razorpay ordering with session memory", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/AI-Powered-Food-Ordering-Automation-System" }] },
+    { "icon": "💎", "name": "RFM Customer Loyalty", "blurb": "9,994 transactions segmented into loyalty tiers", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/customer-loyalty-rfm" }] },
+    { "icon": "📉", "name": "Superstore Sales Analysis", "blurb": "Python + T-SQL window functions on discount-driven losses", "links": [{ "label": "Code", "url": "https://github.com/snehangshu2002/Superstore-Sales-Analysis" }] },
+    { "icon": "🌐", "name": "Portfolio Website", "blurb": "React + Vite site with a scroll-scrubbed cinematic background", "links": [{ "label": "Live", "url": "https://snehangshu2002.github.io/" }, { "label": "Code", "url": "https://github.com/snehangshu2002/snehangshu2002.github.io" }] }
+  ]
+}

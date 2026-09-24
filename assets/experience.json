@@ -1,0 +1,66 @@
+{
+  "_comment": "Source for the experience section (from the resume). Edit this, then run python scripts/experience.py (the Charts workflow also runs it). highlights -> short lines on the timeline card; bullets -> full text under it; kpis -> 1-2 real numbers.",
+  "roles": [
+    {
+      "title": "Junior Software Developer (Project Linked)",
+      "org": "IDEAS – TIH, Indian Statistical Institute",
+      "place": "Kolkata, West Bengal",
+      "dates": "Jun 2026 – Present",
+      "current": true,
+      "highlights": [
+        "Offline-first Flutter app for airport passenger surveys, multiple survey schedules",
+        "Background sync engine and in-app updates via GitHub Releases, no Play Store",
+        "Dynamic survey flow: conditional navigation, validation, live expenditure maths"
+      ],
+      "kpis": [
+        { "value": "40+", "label": "feature modules" }
+      ],
+      "bullets": [
+        "Developed an offline-first Flutter application for airport passenger surveys with support for multiple survey schedules.",
+        "Designed a dynamic survey workflow with conditional navigation, validation, and real-time expenditure calculations.",
+        "Built a background sync engine to upload survey data automatically without interrupting field users.",
+        "Implemented an in-app update system that polls the GitHub Releases API to detect new versions, then downloads and installs the APK directly, eliminating the need for Play Store distribution.",
+        "Refactored the application into 40+ modular feature specifications, improving maintainability and development velocity."
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "org": "IDEAS – TIH, Indian Statistical Institute",
+      "place": "Kolkata, West Bengal",
+      "dates": "Nov 2025 – Mar 2026",
+      "highlights": [
+        "Python pipelines over 50,000+ records with automated validation and anomaly detection",
+        "ML and AI analytics modules for trends and anomalies in the XInsight platform",
+        "Natural-language querying so non-technical users can talk to their data"
+      ],
+      "kpis": [
+        { "value": "50,000+", "label": "records" },
+        { "value": "60%", "label": "less manual QA" }
+      ],
+      "bullets": [
+        "Built and maintained Python-based data processing pipelines handling 50,000+ records, reducing manual QA effort by 60% through automated validation and anomaly detection.",
+        "Developed machine learning and AI-powered analytical modules for trend analysis, anomaly detection, and production-ready data applications within the XInsight platform.",
+        "Integrated natural language query capabilities to enable conversational interaction with datasets for non-technical users.",
+        "Collaborated with engineering teams to package and deploy applications using PyInstaller, improving software delivery and usability."
+      ]
+    },
+    {
+      "title": "Data Science Intern",
+      "org": "DataSpace Academy",
+      "place": "",
+      "dates": "Oct 2025",
+      "highlights": [
+        "End-to-end churn prediction on 7,000+ telecom records: LogReg, Random Forest, SMOTE",
+        "Executive churn report turning model outputs into retention strategies"
+      ],
+      "kpis": [
+        { "value": "79.7%", "label": "accuracy" },
+        { "value": "5", "label": "churn drivers" }
+      ],
+      "bullets": [
+        "Built an end-to-end customer churn prediction pipeline on 7,000+ telecom records using Logistic Regression and Random Forest with SMOTE class balancing, achieving 79.7% accuracy and identifying top five churn drivers.",
+        "Delivered an executive-facing churn analysis report with correlation heatmaps and feature visualizations, translating model outputs into actionable retention strategies."
+      ]
+    }
+  ]
+}
