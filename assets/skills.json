@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "LLM Fine-Tuning",     "value": 86 },
+    { "label": "RAG / Agents",        "value": 82 },
+    { "label": "Deep Learning",       "value": 84 },
+    { "label": "NLP",                 "value": 80 },
+    { "label": "Statistics",          "value": 90 },
+    { "label": "Data Analysis",       "value": 88 },
+    { "label": "MLOps / Deployment",  "value": 72 }
+  ]
+}

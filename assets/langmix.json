@@ -1,0 +1,12 @@
+{
+  "title": "Language & Tooling Stack",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Python",       "value": 92 },
+    { "label": "SQL",          "value": 85 },
+    { "label": "PyTorch",      "value": 84 },
+    { "label": "HuggingFace",  "value": 82 },
+    { "label": "R",            "value": 70 },
+    { "label": "LangChain",    "value": 78 }
+  ]
+}
